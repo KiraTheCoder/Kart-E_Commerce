@@ -1,0 +1,26 @@
+.text-mobile {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 540;
+    font-size: 1rem;
+}
+
+.login-signup {
+    /* display: none; */
+}
+
+.cart-and-profile {
+    /* display: none !important; */
+}
+
+.carousel-img {
+    height: 30rem;
+
+}
+
+
+
+.iphone {
+    height: 17rem;
+    width: 12rem;
+    padding-bottom: 5px;
+}
