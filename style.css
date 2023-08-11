@@ -20,7 +20,25 @@
 
 
 .iphone {
+    height: 16rem;
+    width: 12rem;
+    margin-left: 1rem;
+    margin-bottom: 3rem;
+}
+.oneplus{
+    height: 20rem;
+    width: 18rem;
+    object-fit: cover;
+    padding-bottom: 1rem;
+    padding-right: 4rem;
+    margin-top: -1rem;
+}
+
+.sumsung{
     height: 17rem;
     width: 12rem;
-    padding-bottom: 5px;
+    object-fit: cover;
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
 }
+
